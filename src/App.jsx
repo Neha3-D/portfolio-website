@@ -36,7 +36,7 @@ function App() {
             <p className="hero-description">I'm an MCA graduate passonate about technologies, web development, frontend develeopment and creating meaningful digital experiences. I enjoy building user-friendly digital experiences, web applications, learning new technologies and developing practical solutions. i'm eager to contribute my knowledge, grow professionally, embrace new challenges and create meaningful digital solutions.</p>
             <div className="hero-actions">
               <a className="button button-dark" href="#projects">Explore my work <Arrow /></a>
-              <a className="text-link" href="/resume.pdf" download>View Resume <Arrow /></a>
+              <a className="text-link" href="/Resume.pdf" target="_blank" rel="noopener noreferrer">View Resume <Arrow /></a>
             </div>
             <div className="hero-meta">
               <span>BASED IN BENGALURU, INDIA</span>
